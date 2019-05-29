@@ -1,0 +1,4 @@
+https://www.hackerrank.com/challenges/re-split/problem
+https://www.geeksforgeeks.org/pattern-matching-python-regex/
+https://developers.google.com/edu/python/regular-expressions
+https://www.sanfoundry.com/python-questions-answers-regular-expressions-1/
